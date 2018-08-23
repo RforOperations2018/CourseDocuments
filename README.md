@@ -6,14 +6,13 @@ Tue/Thu  - 4:30-5:50 pm, Location: HBH 1004
 Semester: Mini 1, Year: 2018
 Units: 6, Section(s): 1
 
-Instructor information
-Name	Geoffrey Arnold
-Contact Info	   Email: cmu.rshinycourse@gmail.com
+#### Instructor information
+Name:	Geoffrey Arnold
+Email: cmu.rshinycourse@gmail.com
+Office location:	TBD
+Office hours:	Thursdays 6:15-7:15
 
-Office location	TBD
-Office hours	Thursdays 6:15-7:15
-
-### Course Description
+## Course Description
 This course will teach students to generate interactive websites including GIS maps and other data visualizations and reports using the R programming language. The course will focus on RStudio’s Shiny web application framework for creating interactive web applications, and the Leaflet library package for mobile-friendly interactive maps. This course builds directly from its prerequisite course, Programming R for Analytics course, and offers students a chance to build skills that will be marketable in both the public and the private sectors. Students will learn to load data from a variety of sources and formats for use in interactive web interfaces that can provide real-time information, including Rest APIs.
 Learning Objectives 
 *	Use R to generate interactive charts, maps, tables and graphs. 
@@ -23,7 +22,7 @@ Learning Objectives
 *	Use Human Centered Design principles.
 *	Use git and versioning to save, revert and troubleshoot code.
 
-### Learning Resources 
+## Learning Resources 
 *	Students will require a laptop capable of running R and R Studio for this course, and bring it to every class in order to follow along with lecture.
 *	Free user accounts for GitHub and shinyapps.io.
 *	We will not be using Canvas in this class, instead all Course Documents, Assignments and Lectures can be found here: https://github.com/RforOperations2018
@@ -35,7 +34,7 @@ Learning Objectives
   *	https://datasf.org/opendata/
   *	https://data.cityofchicago.org/
 
-### Assessments
+## Assessments
 The final course grade will be calculated using the following categories:
 
 *	Assessment	Percentage of Final Grade
@@ -70,7 +69,7 @@ Students will be assigned the following final letter grades, based on calculatio
 * Make-up work policy: Emergencies and unforeseeable events can and do occur. If a student has an emergency of some kind they must notify the Professor within 24 hours of end of the emergency. Students are expected to provide some kind of basic documentation of the event.
 * Attendance and/or participation policy: Attendance is an important factor in learning the course material and seeking guidance from the professor, however no attendance will be taken. For students who may be sick or otherwise unable to attend class, lectures slides will be available online in advance on the course Github page.
 
-### Course Policies
+## Course Policies
 * Academic Integrity & Collaboration: While in many instances you may find yourself working on teams while programming and performing analysis Shiny apps are contained and it is required that you understand how all portions work. To this end, Students may work together on assignments, but each student is required to submit their own code/application. To ease the grading process Students should regularly commit their code milestones to Github, including things that did not work. Students who do not follow these guidelines will receive a C- or lower grade on the assignment in question.
 * Late-work/Make-up work policy: If a student has an emergency of some kind they must notify the Professor within 24 hours of end of the emergency. Students are expected to provide some kind of basic documentation of the occurrence.
 * Accommodations for students with disabilities: If you have a disability and require accommodations, please contact Catherine Getchell, Director of Disability Resources, 412-268-6121, getchell@cmu.edu. If you have an accommodations letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with me as early in the semester as possible. I will work with you to ensure that accommodations are provided as appropriate.
